@@ -1,6 +1,8 @@
+[![MasterHead](https://kidztech.edubeta.net.ng/wp-content/uploads/2024/04/kidz-tech-learn-python-programming.webp)](https://Satvi27-debug.io)
+
 <h1 align="center">Hi 👋, I'm B. Satvendra Giri Nihal</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&ved=0CBUQjRxqFwoTCJiQnPzWnJIDFQAAAAAdAAAAABAI&opi=89978449](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvi27-debug&label=Profile%20views&color=0e75b6&style=flat" alt="satvi27-debug" /> </p>
 
