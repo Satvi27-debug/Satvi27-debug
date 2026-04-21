@@ -20,7 +20,6 @@
 ## 🔭 Current Projects
 
 - 🏫 SGA Portal – Real-time college project built with team collaboration
-- 🛡️ Repo Guardia AI – Cybersecurity-focused hackathon project
 - 📄 IEEE Research Paper – Smart Emergency Response Application
 
 ---
