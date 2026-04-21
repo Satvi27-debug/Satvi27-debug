@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm B. Satvendra Giri Nihal</h1>
 <h3 align="center">Python Developer | AI/ML Enthusiast | Backend Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=satvi27-debug&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
