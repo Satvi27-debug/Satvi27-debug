@@ -11,20 +11,18 @@
 
 ## 🚀 About Me
 
-- 🎓 BTech Student passionate about technology and innovation
-- 💻 Currently focused on Python, Backend Development, and AI/ML
-- 🌱 Learning advanced AI, Machine Learning, and real-world project building
-- 🛠️ Interested in Web Development, Automation, Cybersecurity, and AI Agents
-- 📚 Always exploring new technologies and improving my coding skills
-- ⚡ Fun fact: I enjoy building projects that solve real-world problems
+- 🎓 BTech student with a strong interest in software development and emerging technologies
+- 💻 Focused on Python, Backend Development, and Artificial Intelligence
+- 🌱 Currently learning AI, Machine Learning, and real-world application development
+- 🛠️ Interested in Web Development, Automation, Cybersecurity, and Problem Solving
+- 📚 Continuously improving technical and project-building skills
 
 ---
 
 ## 🔭 Current Projects
 
-- 🤖 OmniAgent OS – Offline privacy-first AI platform
-- 🏫 SGA Portal – College real-time project with team collaboration
-- 🛡️ Repo Guardia AI – Hackathon cybersecurity project
+- 🏫 SGA Portal – Real-time college project built with team collaboration
+- 🛡️ Repo Guardia AI – Cybersecurity-focused hackathon project
 - 📄 IEEE Research Paper – Smart Emergency Response Application
 
 ---
@@ -49,8 +47,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -58,8 +55,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 ---
@@ -79,16 +75,16 @@
 
 ## 🏆 Achievements
 
-- 🥇 Participated in Hackathons and built innovative AI projects
+- 🥇 Participated in multiple hackathons and technical events
 - 🏅 Secured 7th place in a hackathon with Repo Guardia AI
-- 📖 Working on research papers and real-time applications
-- 🚀 Constantly improving in AI, backend development, and cybersecurity
+- 📖 Working on research papers and real-world applications
+- 🚀 Continuously developing skills in AI, backend development, and cybersecurity
 
 ---
 
 ## 💡 Quote
 
-> “Success is built one project, one bug fix, and one late night at a time.”
+> “Building skills, solving problems, and staying consistent are the keys to success.”
 
 ---
 
